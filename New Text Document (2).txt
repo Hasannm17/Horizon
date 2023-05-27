@@ -1,0 +1,24 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
+
+font-family: 'Marcellus', serif;
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gudea&family=Marcellus&display=swap" rel="stylesheet">
+
+font-family: 'Gudea', sans-serif;
+font-family: 'Marcellus', serif;
+
+
+#103731
+
+#165247
+#031816
+
+
+
+btn
+#06231e
